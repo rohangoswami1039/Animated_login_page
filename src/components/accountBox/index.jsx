@@ -18,6 +18,12 @@ const BoxContainer = styled.div`
   position: absolute;
   position: fixed;
 overflow: hidden;
+
+@media only screen and (max-width: 500px) {
+  top: 0;
+  width: 100%;
+}
+
 `;
 
 const TopContainer = styled.div`
@@ -28,6 +34,12 @@ const TopContainer = styled.div`
   justify-content: flex-end;
   padding: 0 1.8em;
   padding-bottom: 5em;
+  @media only screen and (max-width: 500px){
+    height:250px;    
+  }
+  @media only screen and (max-width: 360px){
+    height:200px;    
+  }
 `;
 
 const BackDrop = styled(motion.div)`

@@ -27,27 +27,15 @@ function Background(){
 <div className="Student_usage_text">
         <img id="student_logo" src={student}/>
         <div className="student_usage">
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
+        It offers a collaborative workspace, hence customers can record and upload video messages and can share resources. <br/>
+        It is straightforward and has a good interface design, informative reporting, options and takes intuitive actions. <br/>
         </div>
      </div>
 
      <div className="Student_usage_text">
         <div className="settings_usage">
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
+        It is innovative, responsive, and is based on HTML 5 interface which supports many hardware devices. <br/> <br/>
+        It can track an individual’s learning progress, and provide progress information with a robust reporting framework. <bt/>
         </div>
         <img id="student_logo" src={settings}/>
      </div>
@@ -55,27 +43,15 @@ function Background(){
      <div className="Student_usage_text">
         <img id="student_logo" src={resource}/>
         <div className="student_usage">
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
+        It engages users with gamification, video streaming, mobile-friendly learning, and personalized dashboards. <br/> <br/>
+        With Eduventure, the users are now able to enhance their skill set whenever they want according to their convenience. <br/>
         </div>
      </div>
 
      <div className="Student_usage_text">
         <div className="settings_usage">
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
-          quick brown fox jumps over the lazy dog 
+        It offers Instructor-Led Training in a virtual environment along with assessments and quizzes to benchmark knowledge retention. <br/><br/>
+        It offers customized learning paths, reports, and dashboards for reviewing performance and gaining sight of the learning impact.<br/><br/>
         </div>
         <img id="student_logo" src={management}/>
      </div>

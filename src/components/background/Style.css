@@ -750,3 +750,14 @@ body {
     transform: translateX(-100%);
   }
 }
+
+/* Responsive codes */
+
+@media only screen and (max-width: 500px) {
+  .Student_usage_text{
+    display: none;
+  }
+  .nav{
+    display: none;
+  }
+}
